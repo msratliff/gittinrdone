@@ -1,4 +1,4 @@
-puts "This is MR's edit."
+puts "wow man"
 
 response = gets.chomp
 
